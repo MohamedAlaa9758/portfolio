@@ -7,7 +7,7 @@ export const metadata = {
   keywords: ["Mohamed Alaa Elden", "Frontend Developer", "React.js", "Next.js", "JavaScript", "Cairo", "Egypt", "Portfolio"],
   authors: [{ name: "Mohamed Alaa Elden" }],
   verification: {
-    google: "qt0pulOqTKQKpB",
+    google: "qtOpulOqTKQKpB7UhyDCk-Ck6ZwMJNSvhzyRZAgdgpg",
   },
   openGraph: {
     title: "Mohamed Alaa Elden — Frontend Developer",
